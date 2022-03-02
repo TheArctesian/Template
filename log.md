@@ -1,6 +1,3 @@
-Format:
-
-<hr>
 <strong>Name: </strong><em>Name or Tag here</em> 
 <br>
 <strong>Time: </strong>  <em>Time here (24hr time)</em> 
