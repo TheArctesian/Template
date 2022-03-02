@@ -13,4 +13,4 @@
 ### Done ✓
 
 
-- [x] init github repo
+- [x] ~~init github repo~~
