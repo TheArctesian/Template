@@ -14,9 +14,10 @@ signal            : @Arctesian
 
 ## Contributing
 
+### Thank you
 Thank you for wanting to contribute, please look at the todo file for task that remain unfinished, or audit the code. In general use your rational judgment, don't submit anything malicious or project breaking, I or any maintainers will check. Don't be afraid to do anything radical or delete large swaths of code, take risks and innovate.
 
-The only requirement I will set is that you write a log of your work in the `log.md` file. Follow the format. This **must be done** before and after every session. While this might seem tedious and monotonous, it allows me other to acknowledge the effort you have put it to helping the open source community. It as also fun to go back read anecdotes and relive the pain or jubilation the past.
+### Actual Useful information
 
 ## Donate 
 Eth: `0xc7AfE4114E3b78cB22Ec7EbDA11AD40199a9Cb96`
